@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env /Users/Daniel/.rvm/bin/rvm-auto-ruby
 require 'rubygems'
 require 'nokogiri'
 require 'json'
