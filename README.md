@@ -7,7 +7,8 @@ This is a proof of concept for an idea I had -- check what's playing on di.fm an
 1. `cp spotify_config.yml.example spotify_config.yml`
 2. Download your Spotify API key as described in [Hallon gem docs](https://github.com/Burgestrand/Hallon#prerequisites)
 3. Edit `spotify_config.yml`, find an incomplete list of `di_channel_id` in di_channels.yml
-4. Run using `bundle exec ruby di_spotify.rb`
+4. Edit `di_spotify.rm` and change `playlist_uri` variable to your own playlist URL
+5. Run using `bundle exec ruby di_spotify.rb`
 
 ## Todo / Ideas
 
