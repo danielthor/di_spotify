@@ -1,11 +1,11 @@
 #!/usr/bin/env /Users/Daniel/.rvm/bin/rvm-auto-ruby
 #!/usr/bin/env ruby
 
-#require 'rubygems'
+require 'rubygems'
+require 'bundler/setup'
 require 'yaml'
-require 'json'
 require 'net/http'
-require 'hallon'
+Bundler.require(:default)
 
 config = YAML::load(File.open('spotify_config.yml'))
 
