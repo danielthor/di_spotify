@@ -1,3 +1,6 @@
+TODO
+======
+
 * DI.fm channel list yml with name and ids
 * Generic config with Spotify and DI.fm settings
 * Continuously search for new playing tracks and update playlist
