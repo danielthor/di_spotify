@@ -1,5 +1,4 @@
-TODO
-======
+# TODO
 
 * DI.fm channel list yml with name and ids
 * Generic config with Spotify and DI.fm settings
